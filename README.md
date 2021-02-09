@@ -157,7 +157,7 @@ Day of the week categories
 5  Thursday 
 6  Friday
 ```
-Mostly, the undiscipline numbers come from the day of the week. 
+Mostly, the discipline numbers come from the day of the week. 
 
 ___
 
